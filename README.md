@@ -19,6 +19,9 @@ This will install the dependencies as well as prompt the user to enter which vis
 > [!NOTE]
 > The files were created using python3, so ensure that you have already downloaded the latest version of python in order to run this visualization
 
+### Using The Program
+When entering the project you will be granted a white screen with DFS or Shortest Path buttons in the top right. The user is allowed to place a red and a blue square down. These signify the start and end points. Following this the user is allowed to place black squares. This action creates walls. When the maze creation has been completed the user should press the algorithm button in the top right. An animation will play signifying the path that is currently being taken. For DFS the final path (pop paths removed) will be visualized in green. In Shortest Path the finished path will be shown in purple. 
+
 ****
 
 # Depth-First-Search
